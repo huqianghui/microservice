@@ -1,8 +1,22 @@
-# 序言 
+# Summary
 
-传统企业信息系统承载着复杂的领域业务，由于业务和技术的翻新的过程中会增加很多的代码，模块，集成等逻辑，让系统变得越来越繁重。随着互联网的龙卷风的革命袭击着各个行业，系统必须主动或者被动地做出些改变来适应这场革命。
-
-通过对业务领域进行重新梳理，重构之前的历史遗留代码，然后通过微服务的架构方式来开发和部署可能最能满足日新月异的变更需求。
-
-本书就是从自身企业的转化过程，从领域模型的建模，数据库的持续话，应用的拆分，技术选型，自动发布部署等角度分享自己的一些经验和见解。
+* [Introduction](introduction.md)
+* [模型重构](chapter1.md)
+* [服务拆分](fu-wu-chai-fen.md)
+* [自动发布和部署](zi-dong-fa-bu-he-bu-shu.md)
+* [微服务的链路监控与系统预警](wei-fu-wu-de-lian-lu-jian-kong-yu-xi-tong-yu-jing.md)
+* [服务结构组织和规划](fu-wu-jie-gou-zu-zhi-he-gui-hua.md)
+* [推荐微服务匹配的UI技术和nginx静态资源管理](tui-jian-wei-fu-wu-pi-pei-de-ui-ji-zhu.md)
+* [消息中间件选型与应用](xiao-xi-zhong-jian-jian-xuan-xing-yu-ying-yong.md)
+* [Restful框架-springMVC篇](yuan-cheng-diao-yong-yu-shu-ju-bian-ma-xu-lie-hua.md)
+* [服务降级与熔断](fu-wu-jiang-ji-yu-rong-duan.md)
+* [API网关](apiwang-guan.md)
+* [服务注册发现Eureka](fu-wu-zhu-ce-fa-xian-eureka.md)
+* [配置中心](pei-zhi-zhong-xin.md)
+* [路由Ribbon客户端路由](ribbonke-hu-duan-lu-you.md)
+* [FeignClient远程调用](feignclientyuan-cheng-diao-yong.md)
+* [系统缓存设计](xi-tong-huan-cun-she-ji.md)
+* [应用服务的系统安全](ying-yong-fu-wu-de-xi-tong-an-quan.md)
+* [系统性能问题诊断和优化](xi-tong-xing-neng-wen-ti-zhen-duan-he-you-hua.md)
+* [分布式系统要解决的问题](fen-bu-shi-xi-tong-yao-jie-jue-de-wen-ti.md)
 
